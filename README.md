@@ -33,7 +33,7 @@ string resp = response.Body;
 return resp;
 ```
 
-支付宝服务端SDK中提供了一个IAopClient对象的SdkExcute方法，需要传入对应的request类AlipayTradeAppPayRequest。实例化IAopClient对象时需要传入请求网关(gateway)、APPID、应用私钥、支付宝公钥、调用的接口版本、编码方式、签名算法类型以及是否从文件中读取密钥的一个bool类型值。
+支付宝服务端SDK中提供了一个SdkExcute方法，需要传入对应的request类AlipayTradeAppPayRequest。实例化IAopClient对象时需要传入请求网关(gateway)、APPID、应用私钥、支付宝公钥、调用的接口版本、编码方式、签名算法类型以及是否从文件中读取密钥的一个bool类型值。
 
 
 
