@@ -1,0 +1,6 @@
+F:\支付宝支付\服务端SDK\alipay-sdk-NET-3.2.0\bin\Debug\AopSdk.dll
+F:\支付宝支付\服务端SDK\alipay-sdk-NET-3.2.0\bin\Debug\AopSdk.pdb
+F:\支付宝支付\服务端SDK\alipay-sdk-NET-3.2.0\obj\Debug\AopSdk.csproj.CoreCompileInputs.cache
+F:\支付宝支付\服务端SDK\alipay-sdk-NET-3.2.0\obj\Debug\AopSdk.dll
+F:\支付宝支付\服务端SDK\alipay-sdk-NET-3.2.0\obj\Debug\AopSdk.pdb
+F:\支付宝支付\服务端SDK\alipay-sdk-NET-3.2.0\obj\Debug\AopSdk.csprojResolveAssemblyReference.cache
