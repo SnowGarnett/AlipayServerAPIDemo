@@ -1,5 +1,9 @@
 # AlipayServerAPIDemo
-支付宝支付服务端（.Net）demo，WebAPI
+支付宝支付服务端（.Net）demo，WebAPI。
+
+移动端源码：[https://github.com/yangxch/AlipayDemo](https://github.com/yangxch/AlipayDemo)
+
+<br>
 
 服务端主要工作为加签、验签（异步通知验证）。
 
