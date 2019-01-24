@@ -53,6 +53,8 @@ bool flag = AlipaySignature.RSACheckV1(result, ALIPAY_PUBLIC_KEY, CHARSET, sign_
 ```
 
 
+<br>
 
+ps:源码中敏感信息（APPID、应用私钥、支付宝公钥等）已删除，更换为自己的即可，密钥文件在项目rsa文件夹底下。
 
 
