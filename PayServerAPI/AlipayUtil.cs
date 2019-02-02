@@ -19,7 +19,7 @@ namespace PayServerAPI
         private static string APP_PRIVATE_KEY;//商家私钥
         private static string ALIPAY_PUBLIC_KEY;//支付宝公钥
         private static string CHARSET = "utf-8";
-        private static string sign_type = "RSA";//商户生成签名字符串所使用的签名算法类型，目前支持RSA2和RSA，推荐使用RSA2
+        private static string sign_type = "RSA2";//商户生成签名字符串所使用的签名算法类型，目前支持RSA2和RSA，现在必须使用RSA2
         private static string format = "json";//仅支持JSON
         private static string version = "1.0";//调用的接口版本，固定为：1.0
         private static string gateway = "https://openapi.alipay.com/gateway.do";//请求网关(gateway)
